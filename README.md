@@ -42,5 +42,20 @@ A comprehensive database management application built to streamline the process 
 ## 🚀 How to Run
 
 1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/seif-sameh-cs/Event-Ticket-Booking-System.git](https://github.com/seif-sameh-cs/Event-Ticket-Booking-System.git)
+
+```bash
+git clone https://github.com/seif-sameh-cs/Event-Ticket-Booking-System.git
+```
+
+2. Ensure you have **Microsoft Access** installed on your Windows environment.
+
+3. Open the `.accdb` file.
+
+4. If prompted by a security warning, click **"Enable Content"** to allow macros and forms to function properly.
+
+## 👨‍💻 Author
+
+**Seif Sameh**
+
+- GitHub: [seif-sameh-cs](github.com/seif-sameh-cs)
+- LinkedIn: [Seif Sameh](linkedin.com/in/seif-sameh-397073395)

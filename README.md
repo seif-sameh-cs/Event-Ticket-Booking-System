@@ -57,5 +57,5 @@ git clone https://github.com/seif-sameh-cs/Event-Ticket-Booking-System.git
 
 **Seif Sameh**
 
-- GitHub: [seif-sameh-cs](github.com/seif-sameh-cs)
-- LinkedIn: [Seif Sameh](linkedin.com/in/seif-sameh-397073395)
+- GitHub: [seif-sameh-cs](https://github.com/seif-sameh-cs)
+- LinkedIn: [Seif Sameh](https://www.linkedin.com/in/seif-sameh-397073395)

@@ -16,20 +16,27 @@ A comprehensive database management application built to streamline the process 
 ## 📸 Screenshots
 
 ### Database Relationships
+
 ![Relationships Diagram](images/Relationships%20Diagram.png)
 
 ### User Forms
+
 **Event Entry Form**
+
 ![Event Entry Form](images/Event%20Entry%20Form.png)
 
 **Ticket Booking Form**
+
 ![Ticket Booking Form](images/Ticket%20Booking%20Form.png)
 
 ### Reports
+
 **Tickets Sales Report**
+
 ![Tickets Sales Report](images/Tickets%20Sales%20Report.png)
 
 **Event Schedule Report**
+
 ![Event Schedule Report](images/Event%20Schedule%20Report.png)
 
 ## 🚀 How to Run
